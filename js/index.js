@@ -1,20 +1,24 @@
 console.log('Helllo')
 // var ball = document.getElementById('ball')
 
-// ball.style.background= 'blue'
 
-// function moveBall(){
-//   ball.classList = ('topLeft')
+
+// function changeColorOfBall(){
+//   ball.style.background= 'blue'
 // }
 
-// var marginLeft = 0
-
-// function moveBall(){
-//   marginLeft += 1
-//   // console.log(marginLeft)
-//   ball.style.left = marginLeft + 'px'
+// function addClassToBall(){
+//   ball.classList = 'topRight'
 // }
 
-// setInterval(function(){
-//   moveBall()
-// }, 5)
+
+
+ // var marginLeft = 0
+
+// function moveBall(){
+//   console.log('m oving ball')
+//   setInterval(function(){
+//      marginLeft += 1
+//     ball.style.left = marginLeft + 'px'
+//   }, 5)
+// }
