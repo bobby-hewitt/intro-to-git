@@ -1,0 +1,40 @@
+body{
+  padding:0;
+  margin:0;
+}
+
+#container{
+  border:10px solid #101010;
+  box-sizing: border-box;
+  position: relative;
+  width:100vw;
+  height:100vh;
+  background:#f1f1f1;
+  padding:0;
+  margin:0;
+}
+
+#ball{
+  background:#101010;
+  width:50px;
+  height:50px;
+  border-radius: 25px;
+  position: absolute;
+}
+
+.button{
+  margin:0;
+  font-size:30px;
+  position: absolute;
+  bottom:10px;
+  left:10px;
+  padding:10px 20px;
+  font-family:sans-serif;
+  background:#101010;
+  color:#f7f7f7;
+}
+
+.topLeft{
+  top:20px;
+  left:20px;
+}
